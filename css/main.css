@@ -1,5 +1,6 @@
   html {
     box-sizing: border-box;
+    font-family: Merriweather, serif;
   }
 
   *, *::before, *::after {
@@ -17,4 +18,14 @@ td {
   border: 1px;
   border-color: black;
   border-style: solid;
+}
+
+tbody td {
+height: 11em
+}
+
+.calendar,
+td,
+th {
+border: 1px solid #ccc;
 }
