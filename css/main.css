@@ -7,10 +7,6 @@
   }
 }
 
-.table-wrapper table {
-  min-width: 45em;
-}
-
 th {
   border-left: 1px;
   border-right: 1px;
