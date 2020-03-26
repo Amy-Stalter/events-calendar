@@ -1,0 +1,12 @@
+  html {
+    box-sizing: border-box;
+  }
+
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+}
+
+.table-wrapper table {
+  min-width: 45em;
+}
