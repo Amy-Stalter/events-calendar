@@ -10,3 +10,17 @@
 .table-wrapper table {
   min-width: 45em;
 }
+
+th {
+  border-left: 1px;
+  border-right: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+td {
+  border-left: 1px;
+  border-right: 1px;
+  border-color: black;
+  border-style: solid;
+}
